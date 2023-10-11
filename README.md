@@ -13,7 +13,7 @@ This is a digital version of the classic "Simon Says" game. Test your memory and
 
 ### Links
 - Solution URL: [GitHub Repository](https://github.com/SONALI-NEGI/Simon-Says-Game.git)
-- Live Site URL: [GitHub page live URL](https://sonali-negi.github.io/huddle-landing-page-with-curved-sections-using-HTML-and-CSS/)
+- Live Site URL: [GitHub page live URL](https://sonali-negi.github.io/Simon-Says-Game/)
 
 
 ### Built with
