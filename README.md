@@ -6,9 +6,9 @@ This is a digital version of the classic "Simon Says" game. Test your memory and
 
 
 ### Key Achievements:
- • Programmed the game logic to generate random sequences and validate user input.
- • Integrated event listeners to capture user interactions.
- • Designed a visually appealing interface with CSS to enhance user engagement and accessibility.
+- Programmed the game logic to generate random sequences and validate user input.
+- Integrated event listeners to capture user interactions.
+- Designed a visually appealing interface with CSS to enhance user engagement and accessibility.
 
 
 ### Screenshot
