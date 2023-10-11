@@ -1,0 +1,11 @@
+
+  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" >
+
+    <!-- Define the four sections -->
+    <path d="M100,100 L200,100 A100,100 0 0,1 100,200 Z" fill="#FF5733" />
+    <path d="M100,100 L100,0 A100,100 0 0,1 200,100 Z" fill="#FFC300" />
+    <path d="M100,100 L0,100 A100,100 0 0,1 100,0 Z" fill="#4CAF50" />
+    <path d="M100,100 L100,200 A100,100 0 0,1 0,100 Z" fill="#0081CB" />
+
+    <!-- <animateTransform attributeName="transform" type="rotate" from="0" to="100" dur="3s" repeatCount="indefinite" /> -->
+  </svg>

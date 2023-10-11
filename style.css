@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+  text-align: center;
+  /* background-color: #fef2bf; */
+}
+h1 {
+  margin: 0.9rem;
+  font-size: 3rem;
+  color: #011f3f;
+  font-family: "Press Start 2P", cursive;
+}
+h3 {
+  margin: 0.5rem;
+  color: #011f3f;
+  font-family: cursive;
+}
+.start-btn {
+  font-size: 1.3rem;
+  border-radius: 2rem;
+  padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+  background-color: green;
+  color: #fef2bf;
+  border: 2px solid #011f3f;
+}
+.level-btn {
+  font-size: 1.3rem;
+  color: #011f3f;
+  border: none;
+  font-weight: 600;
+  background-color: transparent;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 1rem;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  background-color: #d95980;
+}
+
+.yellow {
+  background-color: #f99b45;
+}
+
+.green {
+  background-color: #63aac0;
+}
+
+.purple {
+  background-color: #819ff9;
+  background-color: #c778ec;
+}
+.flash {
+  background-color: white;
+}
+.userFlash {
+  background-color: green;
+}
+.highscore {
+  font-size: 1.5rem;
+  color: #011f3f;
+  font-weight: 600;
+}
+@media screen and (max-width: 375px) {
+  body {
+    margin: 1rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  .btn {
+    height: 9.5rem;
+    width: 9.5rem;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 0.7rem;
+  }
+}
